@@ -23,5 +23,19 @@ All data was taken from Baltimore City Open Data. They can be downloaded from ou
 
 [Total Population - Community Statistical Area](https://data.baltimorecity.gov/datasets/bniajfi::total-population-community-statistical-area/data?geometry=-77.142%2C39.192%2C-76.099%2C39.378&selectedAttribute=tpop10)
 
+## Methods
+
+Detailed methods for linear regression, cluster analysis, and geospatial analysis can be found in our GitHub repository.
+
+## Results
+
+### Linear Regression
+
+### Cluster Analysis
+
+### Geospatial Analysis
+
+## Discussion
+
 
 
