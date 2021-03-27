@@ -13,7 +13,7 @@ What is the relationship between small business funding and the arts employment 
 
 ## Datasets
 
-All data was taken from Baltimore City Open Data. They can be downloaded from our GitHub repository, or found at the following links: 
+All data was taken from Baltimore City Open Data. They can be downloaded from our GitHub repository under the [Datasets](https://github.com/vchen19/artistic-funding-and-employment-baltimore/tree/main/Datasets) folder, or found at the following links: 
 
 [Total Dollar Amount Invested in Small Businesses per 50 Businesses](https://data.baltimorecity.gov/datasets/bniajfi::total-dollar-amount-invested-in-small-businesses-per-50-businesses?geometry=-77.142%2C39.192%2C-76.099%2C39.378&page=6&selectedAttribute=Shape__Length)
 
