@@ -33,7 +33,7 @@ This data gives the population of each community statistical area from the 2010 
 
 ## Methods
 
-Detailed methods for linear regression, cluster analysis, and geospatial analysis can be found in our GitHub repository.
+Detailed methods for linear regression, [cluster analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/cluster_analysis_methods.md.md), and geospatial analysis can be found in our GitHub repository.
 
 ## Results
 
