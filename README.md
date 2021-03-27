@@ -35,6 +35,8 @@ This data gives the population of each community statistical area from the 2010 
 
 Detailed methods for linear regression, [cluster analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/cluster_analysis_methods.md.md), and geospatial analysis can be found in our GitHub repository.
 
+Generally speaking, linear regression analysis was conducted to find the relationship between small business funding and the number of new small businesses in the year 2016. Then, linear regression analysis was conducted to find the relationship between small business funding and the share of the population that is employed in arts-related businesses in the year 2016. Then, cluster analysis was conducted to group Baltimore's community statistical areas (CSA's) into categories based on their small business funding and their arts employment. Finally, geospatial analysis was conducted based on this cluster analysis to visualize where the clusters lie in Baltimore.
+
 ## Results
 
 ### Linear Regression
@@ -55,5 +57,7 @@ The cluster analysis returned Washington Village/Pigtown, Inner Harbor/Federal H
 From this data, we can resonably conclude that small business funding has a greater impact on arts employment than it does on the small business economy as a whole. Proponents of arts programs could use this data to suggest that because small business funding is most effective in arts businesses in particular, more funding should be directed toward the arts in order to target sectors that will return the greatest investment. A limitation of this study is that it is perhaps an uneven comparison to make to compare arts employment with the number of small businesses that pop up. In the future, we should look to reduce variability between these two factors and compare, for example, arts employment to general small business employment.
 
 Additionally, we can see that funding and employment is rather disparately distributed throughout Baltimore, with the vast majority (40, 72.7%) of neighborhoods falling into cluster 3 with low arts employment and low small business funding. Meanwhile, only 14 (25.4%) of neighborhoods receive high funding and high employment. The one neighborhood with extremely high employment and small business funding was Inner Harbor/ Federal Hill. We know that Inner Harbor/ Federal Hill is [one of the wealthiest neighborhoods in Baltimore](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-households-earning-more-than-75000-community-statistical-area-1/data?geometry=-77.142%2C39.192%2C-76.099%2C39.378&orderBy=hhm7517&page=6), ranking 4th highest in percent of households earning more than $75,000 in 2013-2017. Thus, we can make the argument that resources need to be distributed more evenly throughout Baltimore, especially since arts programs and businesses can have such a positive impact on communities.
+
+Future studies could analyze the movement of funds and employment throughout Baltimore through the years. We observed stark changes in arts employment in certain years, so more research should be done into why this happens and what impact it has on communities. Additionally, once 2020 Census data is released, this study could be conducted again with 2020 data in order to more accurately predict the share of the population that is employed in the arts.
 
 
