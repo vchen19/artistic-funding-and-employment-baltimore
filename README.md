@@ -35,7 +35,7 @@ The map of Baltimore City community statistical areas was screenshotted from [th
 
 ## Methods
 
-Detailed methods for linear regression, [cluster analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/cluster_analysis_methods.md.md), and geospatial analysis can be found in our GitHub repository.
+Detailed methods for linear regression, [cluster analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/cluster_analysis_methods.md.md), and [geospatial analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/geospatial_analysis_methods.md) can be found in our GitHub repository.
 
 Generally speaking, linear regression analysis was conducted to find the relationship between small business funding and the number of new small businesses in the year 2016. Then, linear regression analysis was conducted to find the relationship between small business funding and the share of the population that is employed in arts-related businesses in the year 2016. Then, cluster analysis was conducted to group Baltimore's community statistical areas (CSA's) into categories based on their small business funding and their arts employment. Finally, geospatial analysis was conducted based on this cluster analysis to visualize where the clusters lie in Baltimore.
 
