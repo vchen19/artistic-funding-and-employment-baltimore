@@ -41,6 +41,13 @@ Detailed methods for linear regression, [cluster analysis](https://github.com/vc
 
 ### Cluster Analysis
 
+![Cluster Characteristics Table](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/Cluster%20Characteristics%20Table.png)
+![Cluster Characteristics Bar Graph](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/Cluster%20Characteristics%20Bar%20Graph.png)
+![Cluster Frequency](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/Frequency%20of%20Clusters.png)
+
+The cluster analysis returned Washington Village/Pigtown, Inner Harbor/Federal Hill, Glen-Falstaff, and Downtown/Seton Hill as the four clusters. The first cluster had relatively high arts employment and relatively high investment/ business; the second had high arts employment and high investment/ business; the third cluster had relatively low arts employment and relatively low investment/ business; and the fourth cluster had high arts employment and low investment/ business. 13 CSA's, or neighborhoods, fell into the first cluster, 1 into the 2nd, 40 into the 3rd, and 1 into the 4th. 
+
+
 ### Geospatial Analysis
 
 ## Discussion
