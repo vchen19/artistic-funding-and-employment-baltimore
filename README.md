@@ -42,6 +42,11 @@ Generally speaking, linear regression analysis was conducted to find the relatio
 ## Results
 
 ### Linear Regression
+![Linear Regression 1](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/Linear_Regression_Figure%231.png)
+The first linear regression shows that there is no significant relationship between Average Investment Per Small Business and Rate of Small Business in Baltimore due to its small gradient and its R-square value is 0.0044. 
+
+![Linear Regression 2](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/Linear_Regression_Figure%232.png)
+The first linear regression shows a more siginificant relationship between Average Investment Per Small Business and Art Employment Rate becuase it has higher gradient value and R-square value. 
 
 ### Cluster Analysis
 
