@@ -1,0 +1,14 @@
+To conduct the first linear regression: 
+1. Download the datasets Total Dollar Amount Invested in Small Businesses per 50 Businesses and Percent of Businesses that are 1 Years old or less
+2. For the "Total Dollar Amount Invested in Small Businesses per 50 Businesses" dataset, I divide the attribute "smlinvst16" by 50, and put it in attribute smlinvest16-per-biz, which means investment for small business in 2016 per business. 
+3. Next copy and past4e information from Total Dollar Amount Invested in Small Businesses per 50 Businesses into "simple_linear_regression" excelsheet, and remove all uncessary information.
+4. Use Vlookup to put "biz1_16" attibute in Percent of Businesses that are 1 Years old or less dataset into "simple_linear_regression" excelsheet.
+5. Insert a ScatterPlot with average investment for small business in 2016 on x-axis, and Rate of Small Business in 2016 on y-axis. 
+6. Add linear trendline and put the function formula and R-square value. 
+
+To conduct the second lienar regression: 
+1. Download the dataset Total Employment in Arts Related Businesses and Total Population - Community Statistical Area
+2. Use Vlookup to bring in "tpop10" from  Total Population - Community Statistical Area dataset, which is total population in each neigborhood
+3. Use Vlookup to bring in "artemp16" from Total Employment in Arts Related Businesses dataset, and divide it by "tpop10" to get the "artemp_rate_16", which is reate of art employment in each neighborhood in 2016. 
+4. Insert a ScatterPlot with "smlinvst-perbusiness-16" Average Investment Per Small Business on x-axis, and "artemp_rate_16" Art-profession Employment Rate in y-axis . 
+6. Add linear trendline and put the function formula and R-square value. 
