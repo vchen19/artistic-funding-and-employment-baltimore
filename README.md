@@ -15,19 +15,19 @@ What is the relationship between small business funding and the arts employment 
 
 All data was taken from Baltimore City Open Data. They can be downloaded from our GitHub repository under the [Datasets](https://github.com/vchen19/artistic-funding-and-employment-baltimore/tree/main/Datasets) folder, or found at the following links: 
 
-[Total Dollar Amount Invested in Small Businesses per 50 Businesses](https://data.baltimorecity.gov/datasets/bniajfi::total-dollar-amount-invested-in-small-businesses-per-50-businesses?geometry=-77.142%2C39.192%2C-76.099%2C39.378&page=6&selectedAttribute=Shape__Length)
+1. [Total Dollar Amount Invested in Small Businesses per 50 Businesses](https://data.baltimorecity.gov/datasets/bniajfi::total-dollar-amount-invested-in-small-businesses-per-50-businesses?geometry=-77.142%2C39.192%2C-76.099%2C39.378&page=6&selectedAttribute=Shape__Length)
 
 This data gives the total dollar amount invested in small businesses per 50 businesses in every community statistical area in Baltimore for the years 2016 through 2019.
 
-[Percent of Businesses that are 2 Years old or less](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-businesses-that-are-2-years-old-or-less-1?geometry=-77.142%2C39.192%2C-76.099%2C39.378)
+2. [Percent of Businesses that are 2 Years old or less](https://data.baltimorecity.gov/datasets/bniajfi::percent-of-businesses-that-are-2-years-old-or-less-1?geometry=-77.142%2C39.192%2C-76.099%2C39.378)
 
 This data gives the percent of businesses in every community statistical area in Baltimore that are 2 years old or less for the years 2010 through 2019. 
 
-[Total Employment in Arts Related Businesses](https://data.baltimorecity.gov/datasets/bniajfi::total-employment-in-arts-related-businesses/data?page=2)
+3. [Total Employment in Arts Related Businesses](https://data.baltimorecity.gov/datasets/bniajfi::total-employment-in-arts-related-businesses/data?page=2)
 
 This data gives the number of employed persons in arts related businesses in every community statistical area in Baltimore for the years 2010 through 2018. 
 
-[Total Population - Community Statistical Area](https://data.baltimorecity.gov/datasets/bniajfi::total-population-community-statistical-area/data?geometry=-77.142%2C39.192%2C-76.099%2C39.378&selectedAttribute=tpop10)
+4. [Total Population - Community Statistical Area](https://data.baltimorecity.gov/datasets/bniajfi::total-population-community-statistical-area/data?geometry=-77.142%2C39.192%2C-76.099%2C39.378&selectedAttribute=tpop10)
 
 This data gives the population of each community statistical area from the 2010 Census. Though we generally look at data from 2016 in this study, the Census only occurs every 10 years and 2020 Census data has not yet been released, so this population data is the most up to date data we have.
 
