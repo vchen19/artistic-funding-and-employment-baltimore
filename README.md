@@ -31,13 +31,13 @@ This data gives the number of employed persons in arts related businesses in eve
 
 This data gives the population of each community statistical area from the 2010 Census. Though we generally look at data from 2016 in this study, the Census only occurs every 10 years and 2020 Census data has not yet been released, so this population data is the most up to date data we have.
 
-The map of Baltimore City community statistical areas was screenshotted from [this website](https://health.baltimorecity.gov/neighborhoods/neighborhood-health-profile-reports), and can also be found under the Datasets folder in this respository.
+5. The map of Baltimore City community statistical areas was screenshotted from [this website](https://health.baltimorecity.gov/neighborhoods/neighborhood-health-profile-reports), and can also be found under the Datasets folder in this respository.
 
 ## Methods
 
 Detailed methods for linear regression, [cluster analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/cluster_analysis_methods.md.md), and [geospatial analysis](https://github.com/vchen19/artistic-funding-and-employment-baltimore/blob/main/geospatial_analysis_methods.md) can be found in our GitHub repository.
 
-Generally speaking, linear regression analysis was conducted to find the relationship between small business funding and the number of new small businesses in the year 2016. Then, linear regression analysis was conducted to find the relationship between small business funding and the share of the population that is employed in arts-related businesses in the year 2016. Then, cluster analysis was conducted to group Baltimore's community statistical areas (CSA's) into categories based on their small business funding and their arts employment. Finally, geospatial analysis was conducted based on this cluster analysis to visualize where the clusters lie in Baltimore.
+Generally speaking, linear regression analysis was conducted to find the relationship between small business funding and the number of new small businesses in the year 2016. Under the assumption that most arts businesses are small businesses, we decide to conduct another linear regression analysis to find the relationship between small business funding and the share of the population that is employed in arts-related businesses in the year 2016. Next, cluster analysis was conducted to group Baltimore's community statistical areas (CSA's) into categories based on their small business funding and their arts employment. Finally, to to visualize where the clusters lie in Baltimore, geospatial analysis was conducted based on previous cluster analysis.
 
 ## Results
 
